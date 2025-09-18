@@ -10,6 +10,7 @@ Por LU6CGA (gzalo), si encontrás algo interesante podés crear un _pull request
 - [Pasos para conectarse desde el OLA Radio](pasos_ola.png)
 - [Software para cambiar imagen de inicio](https://baofeng.s3.amazonaws.com/Baofeng_DM-32UV_Picture_Tool.zip)
 - [Video explicativo de cambio de imagen de inicio](https://www.youtube.com/watch?v=kkBoR580_Q0)
+- [Video explicativo de upgrade de firmware](https://www.youtube.com/watch?v=44H3dwOoxeM)
 - [Script para convertir CSV de CHIRP en CSV de CPS](https://github.com/gzalo/Quansheng-DM32UV-Chirp-to-DM32-channel-list-)
 
 ## Contraseñas
@@ -26,8 +27,8 @@ El software DMR CPS puede pedir contraseñas en algunos casos, las mismas son:
 - [Manual de servicio (con esquemáticos y detalles de calibración) de un HT similar que usa el mismo micro, aunque sin pantalla color](https://www.connectsystems.com/products/top/radios/CS120D/DR5800-2%20ServiceManua01.pdf)
 - [Dumper de memorias internas](http://infotex58.ru/forum/index.php?topic=1155.0)
 - Algunas tipografías están en el firmware en formato bitmap, se pueden extraer y modificar, mientras que otras pueden ser flasheadas por separado.
-- Es posible cambiar las voces del HT (las que se usan cuando _Voice prompt_ está activado) flasheando un archivo separado, que tiene un header apuntando a las distintas frases en formato WAV, y luego las mismas en formato WAV 8kHz mono 16 bits.
-- Hay equipos realizando ports para otros HTs con el mismo micro (HR_C7000), pero no para el DM32-UV.
+- [Cambiar las voces del HT/_Voice prompt_](voice/)
+- Hay equipos realizando ports del OpenGD77 para otros HTs con el mismo micro (HR_C7000), pero no para el DM32-UV. Por ahora.
 
 # Otros repositorios con información
 - http://infotex58.ru/forum/index.php?topic=1148.330
