@@ -6,7 +6,8 @@ Por LU6CGA (gzalo), si encontrás algo interesante podés crear un _pull request
 # Cosas básicas
 - [Manual](https://baofeng.s3.amazonaws.com/Baofeng_DM-32UV_User_Manual_20250210.pdf)
 - [Software para programar (DMR CPS), desde Windows o Linux con Wine](https://baofeng.s3.amazonaws.com/Baofeng_DM-32UV_CPS_v1.41.zip)
-- [Software para programar desde Android (OLA Radio)](https://play.google.com/store/apps/details?id=com.aewt.app.friends&hl=es_AR)
+- [Software para programar desde tablets/celus _Android_ (OLA Radio)](https://play.google.com/store/apps/details?id=com.aewt.app.friends&hl=es_AR)
+- [Software para programar desde _iPad/iPhone_ (OLA Radio)](https://apps.apple.com/ar/app/ola-radio/id6740220159)
 - [Pasos para conectarse desde el OLA Radio](pasos_ola.png)
 - [Software para cambiar imagen de inicio](https://baofeng.s3.amazonaws.com/Baofeng_DM-32UV_Picture_Tool.zip)
 - [Video explicativo de cambio de imagen de inicio](https://www.youtube.com/watch?v=kkBoR580_Q0)
