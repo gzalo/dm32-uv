@@ -30,6 +30,7 @@ El software DMR CPS puede pedir contraseñas en algunos casos, las mismas son:
 - Algunas tipografías están en el firmware en formato bitmap, se pueden extraer y modificar, mientras que otras pueden ser flasheadas por separado.
 - [Cambiar las voces del HT/_Voice prompt_](voice/)
 - Hay equipos realizando ports del OpenGD77 para otros HTs con el mismo micro (HR_C7000), pero no para el DM32-UV. Por ahora.
+- [Info del bootloader que viene en el micro (en ROM)](bootloader/)
 
 # Otros repositorios con información
 - http://infotex58.ru/forum/index.php?topic=1148.330
