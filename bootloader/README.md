@@ -21,3 +21,5 @@ El micro contesta "02 05 00 03". Si el tercer byte es 00 está todo OK. Y luego 
 
 ## Créditos
 Parte de la info de acá fue obtenida haciendo ingeniería inversa a este [dumper/flasher](http://infotex58.ru/forum/index.php?topic=1155.0), puede no estar 100% correcta.
+
+[Toolchain · cds-windows-mingw-elf-tools-V5.2.31-20250818-1633.zip](https://www.xrvm.cn/community/download?id=4478327682534281216)
